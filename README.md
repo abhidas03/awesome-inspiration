@@ -220,6 +220,9 @@
 | Fearless (Taylor's Version)      | Taylor Swift                         | [YouTube](https://youtu.be/eVNNfmr_vWI)                | [Wikipedia](https://en.wikipedia.org/wiki/Fearless_(Taylor%27s_Version))          | [Lyrics](https://genius.com/Taylor-swift-fearless-taylors-version-lyrics)          |
 | Best of Me                       | NEFFEX                               | [YouTube](https://www.youtube.com/watch?v=0Wa_CR0H8g4) | [Wikipedia](https://en.wikipedia.org/wiki/The_Best_of_Me_(David_Foster_song))     | [Lyrics](https://genius.com/Neffex-best-of-me-lyrics)                              |
 
+| Reborn                       | KIDS SEE GHOSTS                               | [YouTube](https://www.youtube.com/watch?v=hQC8COGQ4BM) | [Wikipedia](https://en.wikipedia.org/wiki/Reborn_(song))     | [Lyrics](https://genius.com/Kids-see-ghosts-reborn-lyrics)                              
+          |
+          
 ## Videos
 
 - [Inspiring Story of Robert Downey Jr.](https://www.facebook.com/TheBornRealist/videos/919818351502217)
@@ -245,6 +248,7 @@
 - [Robert Downey Jr's Speech Will Leave You SPEECHLESS - Best Life Advice](https://yewtu.be/watch?v=7vBb4-E-4Qc)
 - [Dream - Motivational Video](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 - [8 traits of successful people - Richard St. John](https://www.youtube.com/watch?v=NOl0v54DaXo)
+- [How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson](https://www.youtube.com/watch?v=TQMbvJNRpLE)
 
 <details><summary>Hindi</summary>
 
